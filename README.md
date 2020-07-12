@@ -6,6 +6,12 @@
 
 ### .\env\Scripts\activate
 
+### pip install psycopg2-binary
+
+### pip install flask-sqlalchemy
+
+### pip install Flask-Migrate
+
 ### my username is postgres
 
 ### my password is password
