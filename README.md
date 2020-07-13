@@ -1,6 +1,6 @@
-# project-postgres-flask-graphql
+# project-postgres-flask
 
-### Practice Project with PostgreSQL, Flask, GraphQL
+### Practice Project with PostgreSQL, Flask
 
 ### py -m venv env
 
