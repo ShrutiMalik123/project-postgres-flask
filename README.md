@@ -22,4 +22,4 @@
 
 ### the database name is book-store-api
 
-### 'postgresql://postgres:omega123@localhost:5432/cars_api'
+### 'postgresql://postgres:password@localhost:5432/cars_api'
